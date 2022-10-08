@@ -1,0 +1,544 @@
+,index,timestamp,coursename,degree,heard_hs_counselor,heard_hs_teacher,heard_it_website,heard_ccm_admissions,heard_employer,heard_work_dev,heard_nj_work_dev,first_choice,interest_level,race,gender
+0,0,2020/07/28 3:21:36 PM EST,CMP 239 Internet & Web Page Design,"Computer Science, Associate of Science",No,No,Yes,No,No,No,No,First Choice,,Black/African American,Man
+1,1,2020/07/28 4:07:22 PM EST,CMP 239 Internet & Web Page Design,"Information Technology, Applied Associate of Science",No,No,Yes,No,No,No,No,Nursing,,Multi-Racial,Woman
+2,2,2020/07/28 8:12:47 PM EST,CMP 239 Internet & Web Page Design,"Information Technology, Applied Associate of Science",No,No,Yes,Yes,No,No,No,First Choice,,Hispanic or Latino,Man
+3,3,2020/07/29 10:53:03 AM EST,CMP 239 Internet & Web Page Design,Non Degree seeking,,,,,,,,,4.0,Asian,Woman
+4,4,2020/07/29 4:26:21 PM EST,CMP 239 Internet & Web Page Design,"Computer Science, Associate of Science",No,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Man
+5,5,2020/07/30 1:10:46 PM EST,CMP 239 Internet & Web Page Design,"Computer Science, Associate of Science",Yes,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Man
+6,6,2020/07/30 6:01:39 PM EST,CMP 239 Internet & Web Page Design,Web Development Certificate of Achievement,No,No,Yes,Yes,No,No,No,completed a degree in Business Administration,,White/Caucasian,Woman
+7,7,2020/07/30 7:58:48 PM EST,CMP 239 Internet & Web Page Design,"Information Technology, Applied Associate of Science",No,No,Yes,Yes,No,Don't recall,Don't recall,First Choice,,White/Caucasian,Man
+8,8,2020/07/31 1:58:09 PM EST,CMP 239 Internet & Web Page Design,"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,undecided ,,Asian,Man
+9,9,2020/08/02 7:04:38 PM EST,CMP 239 Internet & Web Page Design,"Computer Science, Associate of Science",No,No,No,No,No,No,No,First Choice,,Asian,Man
+10,10,2020/08/03 11:24:59 AM EST,CMP 239 Internet & Web Page Design,"Information Technology, Applied Associate of Science",Yes,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+11,11,2020/08/03 12:00:01 PM EST,CMP 239 Internet & Web Page Design,Engineering Science,,,,,,,,,5.0,White/Caucasian,Man
+12,12,2020/08/03 2:01:43 PM EST,CMP 239 Internet & Web Page Design,"Digital Media Technology, Applied Associate of Science",No,No,No,No,No,No,No,Animation ,,White/Caucasian,Man
+13,13,2020/09/08 10:47:44 PM EST,CMP 128 Computer Science I,Undecided,,,,,,,,,5.0,Hispanic or Latino,Man
+14,14,2020/09/09 9:21:38 AM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,Yes,No,No,No,No,First Choice,,Hispanic or Latino,Man
+15,15,2020/09/09 9:27:47 AM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,Yes,Yes,No,No,No,I changed it a couple times. First one was game design.,,Hispanic or Latino,Woman
+16,16,2020/09/09 9:59:49 AM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Yes,No,No,Yes,No,No,No,MET/ES Dual Degree,,White/Caucasian,Man
+17,17,2020/09/09 10:15:32 AM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Don't recall,Yes,Yes,Yes,Don't recall,Don't recall,Don't recall,First Choice,,Asian,Woman
+18,18,2020/09/09 10:43:41 AM EST,CMP 128 Computer Science I,Non Degree seeking,,,,,,,,,5.0,Multi-racial,Woman
+19,19,2020/09/09 12:37:11 PM EST,CMP 128 Computer Science I,"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,Nursing,,Black/African American,Woman
+20,20,2020/09/09 12:37:16 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,No,No,No,No,No,I was a musical theatre major first but the program that I wanted to transfer too would not accept CCM credits.,,White/Caucasian,Man
+21,21,2020/09/09 1:21:27 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Yes,Yes,No,No,No,No,No,First Choice,,White/Caucasian,Man
+22,22,2020/09/09 2:28:37 PM EST,CMP 128 Computer Science I,Undecided,,,,,,,,,3.0,Asian,Woman
+23,23,2020/09/09 4:18:53 PM EST,CMP 128 Computer Science I,Challenger Program,Yes,No,No,No,No,No,No,First Choice,,Asian,Man
+24,24,2020/09/09 4:47:03 PM EST,CMP 239 Internet & Web Page Design,"Information Technology, Applied Associate of Science",Don't recall,Don't recall,Yes,Yes,Don't recall,Don't recall,Don't recall,First Choice,,Asian,Man
+25,25,2020/09/09 6:34:29 PM EST,CMP 239 Internet & Web Page Design,Undecided,,,,,,,,,5.0,Hispanic or Latino,Man
+26,26,2020/09/09 6:35:29 PM EST,CMP 239 Internet & Web Page Design,Non Degree seeking,,,,,,,,,5.0,Hispanic or Latino,Woman
+27,27,2020/09/09 6:36:37 PM EST,CMP 239 Internet & Web Page Design,Business Administration,,,,,,,,,2.0,Hispanic or Latino,Woman
+28,28,2020/09/10 10:25:38 AM EST,CMP 128 Computer Science I,"CIS Game Development Option, Applied Associate of Science",Don't recall,Don't recall,Yes,Yes,Don't recall,Don't recall,Don't recall,First Choice,,White/Caucasian,Man
+29,29,2020/09/10 10:34:47 AM EST,CMP 128 Computer Science I,"Information Technology, Applied Associate of Science",No,No,No,Yes,No,No,No,radiography,,White/Caucasian,Woman
+30,30,2020/09/10 11:31:16 AM EST,CMP 128 Computer Science I,Mechanical Engineering Technology,,,,,,,,,1.0,Multi-racial,Man
+31,31,2020/09/10 12:40:05 PM EST,CMP 128 Computer Science I,Mechanical Engineering Technology ,,,,,,,,,3.0,White/Caucasian,Man
+32,32,2020/09/10 12:55:21 PM EST,CMP 239 Internet & Web Page Design,"Information Technology, Applied Associate of Science",No,No,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+33,33,2020/09/10 1:05:00 PM EST,CMP 128 Computer Science I,"Mechanical Engineering, Associate in Applied Science",,,,,,,,,3.0,Hispanic or Latino,Woman
+34,34,2020/09/10 1:35:39 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Yes,No,No,Yes,No,No,No,First Choice,,Hispanic or Latino,Woman
+35,35,2020/09/10 2:18:06 PM EST,CMP 128 Computer Science I,Non Degree seeking,,,,,,,,,3.0,Asian,Man
+36,36,2020/09/10 2:20:05 PM EST,CMP 128 Computer Science I,Mechanical Engineering Tech,,,,,,,,,3.0,White/Caucasian,Man
+37,37,2020/09/10 2:21:30 PM EST,CMP 128 Computer Science I,Business Administration,,,,,,,,,4.0,White/Caucasian,Woman
+38,38,2020/09/10 2:24:14 PM EST,CMP 128 Computer Science I,"Information Technology, Applied Associate of Science",No,No,Yes,No,No,No,No,Mechanical Engineering and Technology ,,Hispanic or Latino,Man
+39,39,2020/09/10 2:28:11 PM EST,CMP 128 Computer Science I,"Information Technology, Applied Associate of Science",Yes,Yes,Yes,No,No,No,No,First Choice,,Asian,Prefer not to say
+40,40,2020/09/10 4:28:40 PM EST,CMP 128 Computer Science I,Architecture and Design ,,,,,,,,,4.0,Black/African American,Man
+41,41,2020/09/10 4:31:28 PM EST,CMP 128 Computer Science I,Architecture and Design ,,,,,,,,,4.0,Black/African American,Man
+42,42,2020/09/10 4:42:03 PM EST,CMP 128 Computer Science I,mechanical engineering ,,,,,,,,,4.0,White/Caucasian,Man
+43,43,2020/09/10 4:55:42 PM EST,CMP 128 Computer Science I,"Nursing, Associate of Science",,,,,,,,,1.0,Multi-racial,Woman
+44,44,2020/09/10 8:32:53 PM EST,CMP 128 Computer Science I,Business Administration,,,,,,,,,5.0,Hispanic or Latino,Man
+45,45,2020/09/10 10:08:35 PM EST,CMP 128 Computer Science I,Engineering,,,,,,,,,3.0,White/Caucasian,Man
+46,46,2020/09/11 12:12:02 AM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,No,Yes,No,No,No,musical theatre,,White/Caucasian,Man
+47,47,2020/09/11 8:09:02 AM EST,CMP 128 Computer Science I,Undecided,,,,,,,,,3.0,White/Caucasian,Man
+48,48,2020/09/11 8:09:06 AM EST,CMP 128 Computer Science I,Undecided,,,,,,,,,3.0,White/Caucasian,Man
+49,49,2020/09/11 9:00:19 AM EST,CMP 128 Computer Science I,Undecided,,,,,,,,,5.0,White/Caucasian,Man
+50,50,2020/09/11 9:38:49 AM EST,CMP 128 Computer Science I,electrical engineering ,,,,,,,,,3.0,White/Caucasian,Woman
+51,51,2020/09/11 9:41:36 AM EST,CMP 128 Computer Science I,electrical engineering ,,,,,,,,,3.0,White/Caucasian,Woman
+52,52,2020/09/11 12:37:01 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Yes,Yes,No,No,No,No,No,First Choice,,Black/African American,Man
+53,53,2020/09/11 12:43:10 PM EST,CMP 128 Computer Science I,Mechanical Engineering Technology,,,,,,,,,4.0,Hispanic or Latino,Man
+54,54,2020/09/11 2:49:04 PM EST,CMP 128 Computer Science I,"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+55,55,2020/09/12 10:06:57 AM EST,CMP 239 Internet & Web Page Design,"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+56,56,2020/09/12 1:01:39 PM EST,CMP 128 Computer Science I,Mechanical Engineering Technology,,,,,,,,,4.0,Asian,Man
+57,57,2020/09/12 2:02:17 PM EST,CMP 128 Computer Science I,"Information Technology, Applied Associate of Science",Yes,No,Yes,Yes,No,No,No,First Choice,,Hispanic or Latino,Woman
+58,58,2020/09/13 4:09:45 PM EST,CMP 239 Internet & Web Page Design,Undecided,,,,,,,,,5.0,Hispanic or Latino,Woman
+59,59,2020/09/13 7:10:44 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Yes,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Woman
+60,60,2020/09/13 7:23:30 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,First Choice,,Hispanic or Latino,Man
+61,61,2020/09/13 7:24:44 PM EST,CMP 128 Computer Science I,"Information Technology, Applied Associate of Science",Yes,Yes,Yes,Yes,Yes,Yes,Yes,First Choice,,Asian,Man
+62,62,2020/09/14 10:46:57 AM EST,CMP 239 Internet & Web Page Design,"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,First Choice,,Choose not to reply,Man
+63,63,2020/09/14 11:49:10 AM EST,CMP 128 Computer Science I,Mechanical Engineer Tech,,,,,,,,,3.0,White/Caucasian,Man
+64,64,2020/09/14 1:05:34 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,Yes,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+65,65,2020/09/14 1:05:38 PM EST,CMP 128 Computer Science I,"CIS Game Development Option, Applied Associate of Science",No,No,Yes,No,No,No,No,Exercise Science,,White/Caucasian,Man
+66,66,2020/09/14 1:06:31 PM EST,CMP 128 Computer Science I,Mechanical Engineering Technology ,,,,,,,,,4.0,Hispanic or Latino,Man
+67,67,2020/09/14 1:07:23 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,No,No,No,No,No,First Choice,,American Indian/Native American/Alaska Native,Man
+68,68,2020/09/14 1:07:42 PM EST,CMP 128 Computer Science I,"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+69,69,2020/09/14 1:10:22 PM EST,CMP 128 Computer Science I,Liberal Arts,,,,,,,,,1.0,Multi-racial,Woman
+70,70,2020/09/14 1:10:37 PM EST,CMP 128 Computer Science I,Business,,,,,,,,,1.0,Hispanic or Latino,Woman
+71,71,2020/09/14 1:34:46 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,Yes,No,No,No,No,First Choice,,Hispanic or Latino,Woman
+72,72,2020/09/14 1:39:21 PM EST,CMP 128 Computer Science I,"Technical Studies, Applied Associate of Science",No,No,No,Yes,No,No,No,First Choice,,White/Caucasian,Man
+73,73,2020/09/14 1:40:12 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Woman
+74,74,2020/09/14 1:41:04 PM EST,CMP 128 Computer Science I,Mechanical Engineering Technology,,,,,,,,,3.0,White/Caucasian,Man
+75,75,2020/09/14 1:43:55 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Yes,No,No,Yes,No,No,No,First Choice,,Multi-racial,Man
+76,76,2020/09/14 2:49:18 PM EST,CMP 239 Internet & Web Page Design,"Computer Science, Associate of Science",No,No,No,No,No,No,No,Mathematics,,Asian,Man
+77,77,2020/09/14 3:18:49 PM EST,CMP 128 Computer Science I,Associate Degree in Mathematics,,,,,,,,,3.0,White/Caucasian,Woman
+78,78,2020/09/14 5:10:08 PM EST,CMP 128 Computer Science I,Electrical Engineering Technology,,,,,,,,,3.0,Choose not to reply,I do not identify
+79,79,2020/09/14 5:10:18 PM EST,CMP 128 Computer Science I,Non Degree seeking,,,,,,,,,3.0,White/Caucasian,Woman
+80,80,2020/09/14 5:10:51 PM EST,CMP 128 Computer Science I,Mechanical Engineering Technology,,,,,,,,,3.0,White/Caucasian,Man
+81,81,2020/09/14 5:13:02 PM EST,CMP 128 Computer Science I,"Information Technology, Applied Associate of Science",Yes,Yes,Yes,Yes,No,No,No,chemical Engineering,,White/Caucasian,Man
+82,82,2020/09/14 5:13:04 PM EST,CMP 128 Computer Science I,Math-Education Specialization,,,,,,,,,3.0,Hispanic or Latino,Woman
+83,83,2020/09/14 5:14:17 PM EST,CMP 128 Computer Science I,Mechanical Engineer,,,,,,,,,3.0,Hispanic or Latino,Man
+84,84,2020/09/14 5:14:29 PM EST,CMP 128 Computer Science I,mechanical engineering tech,,,,,,,,,3.0,White/Caucasian,Man
+85,85,2020/09/14 5:17:10 PM EST,CMP 128 Computer Science I,"CIS Game Development Option, Applied Associate of Science",Yes,No,No,Yes,No,No,No,First Choice,,White/Caucasian,Man
+86,86,2020/09/14 5:20:03 PM EST,CMP 128 Computer Science I,"Technical Studies, Applied Associate of Science",No,No,No,No,No,No,No,This is a requirement for my mechanical engineering major ,,Hispanic or Latino,Man
+87,87,2020/09/14 5:20:38 PM EST,CMP 128 Computer Science I,"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,Nursing,,Hispanic or Latino,Man
+88,88,2020/09/14 5:23:27 PM EST,CMP 128 Computer Science I,Elec Engineering Tech,,,,,,,,,5.0,White/Caucasian,Man
+89,89,2020/09/14 8:31:52 PM EST,CMP 239 Internet & Web Page Design,"Computer Science, Associate of Science",No,No,No,No,No,No,No,Math,,Black/African American,Woman
+90,90,2020/09/14 9:13:39 PM EST,CMP 128 Computer Science I,Associate's Degree,,,,,,,,,3.0,Asian,Woman
+91,91,2020/09/14 9:13:45 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Man
+92,92,2020/09/15 2:40:49 AM EST,CMP 128 Computer Science I,Electronics Engineering Technology,,,,,,,,,5.0,Hispanic or Latino,Man
+93,93,2020/09/16 6:47:42 AM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Yes,Yes,No,Yes,No,Don't recall,Don't recall,my first major was biology,,Asian,Woman
+94,94,2020/09/16 6:48:24 AM EST,CMP 128 Computer Science I,Business Administration,,,,,,,,,3.0,Asian,Woman
+95,95,2020/09/16 10:44:06 AM EST,CMP 128 Computer Science I,Electronics Engineering Technology,,,,,,,,,4.0,Hispanic or Latino,Man
+96,96,2020/09/16 12:12:03 PM EST,CMP 128 Computer Science I,Mechanical Engineering Technology,,,,,,,,,3.0,White/Caucasian,Man
+97,97,2020/09/16 1:09:14 PM EST,CMP 128 Computer Science I,Mathematics,,,,,,,,,3.0,White/Caucasian,Man
+98,98,2020/09/16 1:10:23 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Yes,No,No,Yes,No,No,No,First Choice,,Hispanic or Latino,Man
+99,99,2020/09/16 1:11:33 PM EST,CMP 128 Computer Science I,"CIS Game Development Option, Applied Associate of Science",Yes,Yes,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Prefer not to say
+100,100,2020/09/16 1:12:11 PM EST,CMP 128 Computer Science I,Undecided,,,,,,,,,3.0,Asian,Woman
+101,101,2020/09/16 1:12:18 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Yes,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Man
+102,102,2020/09/16 1:13:34 PM EST,CMP 128 Computer Science I,Mathematics Associate of Science,,,,,,,,,4.0,White/Caucasian,Woman
+103,103,2020/09/16 1:13:36 PM EST,CMP 128 Computer Science I,Mechanical Engineering Technology,,,,,,,,,2.0,White/Caucasian,Man
+104,104,2020/09/16 1:14:34 PM EST,CMP 128 Computer Science I,"Technical Studies, Applied Associate of Science",No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+105,105,2020/09/16 1:14:48 PM EST,CMP 128 Computer Science I,"Information Technology, Applied Associate of Science",Yes,Yes,Yes,Yes,No,No,No,First Choice,,American Indian/Native American/Alaska Native,Man
+106,106,2020/09/16 1:20:47 PM EST,CMP 128 Computer Science I,MET,,,,,,,,,3.0,White/Caucasian,Man
+107,107,2020/09/17 12:05:35 AM EST,CMP 128 Computer Science I,"CIS Game Development Option, Applied Associate of Science",No,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+108,108,2020/09/17 12:23:10 AM EST,CMP 128 Computer Science I,Business Administration,,,,,,,,,1.0,Asian,Man
+109,109,2020/09/17 12:59:31 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+110,110,2020/09/17 1:14:08 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",No,No,Yes,Yes,No,No,No,Culinary ,,White/Caucasian,Man
+111,111,2020/09/17 1:15:04 PM EST,CMP 131 Fundamentals of Programming (Python),Information Security Certificate of Achievement,No,No,No,Yes,No,No,No,First Choice,,White/Caucasian,Woman
+112,112,2020/09/17 1:15:58 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,I changed from Computer Science to IT,,Hispanic or Latino,Man
+113,113,2020/09/17 1:16:33 PM EST,CMP 131 Fundamentals of Programming (Python),"Computer Science, Associate of Science",No,No,Yes,No,No,No,No,First Choice,,White/Caucasian,Woman
+114,114,2020/09/17 1:16:41 PM EST,CMP 131 Fundamentals of Programming (Python),Information Security Certificate of Achievement,Yes,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+115,115,2020/09/17 1:17:25 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,music engineering,,White/Caucasian,Man
+116,116,2020/09/17 1:18:26 PM EST,CMP 131 Fundamentals of Programming (Python),"Computer Science, Associate of Science",No,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+117,117,2020/09/17 1:18:42 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",Yes,Yes,Yes,Yes,Yes,Yes,Yes,First Choice,,Asian,Man
+118,118,2020/09/17 1:22:17 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",No,No,Yes,Yes,No,Yes,No,First Choice,,Asian,Man
+119,119,2020/09/17 1:22:43 PM EST,CMP 239 Internet & Web Page Design,"Information Technology, Applied Associate of Science",Yes,Yes,Yes,Don't recall,Don't recall,Don't recall,Don't recall,First Choice,,Asian,Man
+120,120,2020/09/17 1:25:09 PM EST,CMP 131 Fundamentals of Programming (Python),Non Degree seeking,,,,,,,,,3.0,Hispanic or Latino,Man
+121,121,2020/09/17 1:26:27 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",Yes,Yes,No,No,No,No,No,First Choice,,White/Caucasian,Man
+122,122,2020/09/17 2:07:18 PM EST,CMP 128 Computer Science I,"Mathematics Option, Applied Associate of Science",,,,,,,,,4.0,Choose not to reply,Prefer not to say
+123,123,2020/09/17 2:13:10 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+124,124,2020/09/17 2:37:58 PM EST,CMP 128 Computer Science I,Challenger Program,No,No,No,No,No,No,No,I am a high school student,,White/Caucasian,Man
+125,125,2020/09/19 10:12:54 AM EST,CMP 128 Computer Science I,Mechanical Engineering & Technology,,,,,,,,,4.0,White/Caucasian,Man
+126,126,2020/09/20 1:35:21 PM EST,CMP 128 Computer Science I,"CIS Game Development Option, Applied Associate of Science",No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+127,127,2020/09/20 1:35:25 PM EST,CMP 128 Computer Science I,"CIS Game Development Option, Applied Associate of Science",No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+128,128,2020/09/20 7:23:34 PM EST,CMP 128 Computer Science I,Mechanical Engineering Technology,,,,,,,,,2.0,White/Caucasian,Man
+129,129,2020/09/20 10:47:44 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Woman
+130,130,2020/09/21 7:01:55 AM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Yes,Yes,No,No,No,No,No,First Choice,,White/Caucasian,Man
+131,131,2020/09/21 7:16:50 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Yes,No,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+132,132,2020/09/21 7:17:49 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Don't recall,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+133,133,2020/09/21 7:18:07 AM EST,CMP 131 Fundamentals of Programming (Python),Non Degree seeking,,,,,,,,,3.0,Asian,Woman
+134,134,2020/09/21 7:18:27 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,No,No,Yes,Yes,No,No,No,First Choice,,Asian,Woman
+135,135,2020/09/21 7:18:40 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Yes,Yes,Don't recall,No,No,No,No,First Choice,,Asian,Man
+136,136,2020/09/21 7:19:34 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Yes,Yes,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+137,137,2020/09/21 7:19:46 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Yes,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+138,138,2020/09/21 7:20:00 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Don't recall,No,No,No,No,No,No,First Choice,,Choose not to reply,Prefer not to say
+139,139,2020/09/21 7:20:55 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Yes,No,Yes,No,No,No,No,First Choice,,Black/African American,Woman
+140,140,2020/09/21 7:21:08 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Yes,Yes,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+141,141,2020/09/21 7:21:18 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,No,No,Yes,Yes,No,No,No,,,White/Caucasian,Woman
+142,142,2020/09/21 7:22:01 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Yes,Yes,Don't recall,No,No,No,No,First Choice,,Asian,Man
+143,143,2020/09/21 7:22:08 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Yes,No,Yes,No,No,No,No,First Choice,,Multi-racial,Man
+144,144,2020/09/21 7:22:16 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Yes,Don't recall,No,No,No,No,No,First Choice,,White/Caucasian,Man
+145,145,2020/09/21 7:22:18 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Yes,Yes,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+146,146,2020/09/21 7:22:29 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Yes,Don't recall,Don't recall,Don't recall,No,No,No,First Choice,,White/Caucasian,Man
+147,147,2020/09/21 7:22:46 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Yes,Yes,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+148,148,2020/09/21 7:23:55 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Yes,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+149,149,2020/09/21 7:29:04 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Don't recall,No,No,No,No,No,No,First Choice,,Choose not to reply,Prefer not to say
+150,150,2020/09/21 7:37:15 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Yes,No,Yes,Yes,No,No,No,First Choice,,Asian,Woman
+151,151,2020/09/21 8:03:27 AM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Yes,No,No,No,No,No,No,First Choice,,Asian,Man
+152,152,2020/09/21 11:38:33 AM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Yes,Don't recall,No,No,No,No,No,First Choice,,White/Caucasian,Man
+153,153,2020/09/21 12:00:19 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Yes,Yes,No,Yes,Don't recall,Don't recall,Don't recall,First Choice,,White/Caucasian,Man
+154,154,2020/09/21 12:01:45 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,Yes,No,No,No,No,First Choice,,Choose not to reply,Man
+155,155,2020/09/21 12:02:30 PM EST,CMP 128 Computer Science I,Web Development Certificate of Achievement,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+156,156,2020/09/21 12:02:57 PM EST,CMP 128 Computer Science I,"Information Technology, Applied Associate of Science",No,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Man
+157,157,2020/09/21 12:03:11 PM EST,CMP 128 Computer Science I,"Information Technology, Applied Associate of Science",No,No,Yes,No,No,No,No,Nursing,,Hispanic or Latino,Man
+158,158,2020/09/21 12:04:01 PM EST,CMP 128 Computer Science I,"Technical Studies, Applied Associate of Science",No,No,No,No,No,No,No,im a mec tech major ,,White/Caucasian,Man
+159,159,2020/09/21 12:04:02 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+160,160,2020/09/21 12:04:13 PM EST,CMP 128 Computer Science I,"CIS Game Development Option, Applied Associate of Science",No,No,Yes,Yes,No,No,No,Mechanical Engineering,,White/Caucasian,Man
+161,161,2020/09/21 12:04:22 PM EST,CMP 128 Computer Science I,"Information Technology, Applied Associate of Science",No,No,Yes,No,No,No,No,Exercise Science,,White/Caucasian,Man
+162,162,2020/09/21 12:04:57 PM EST,CMP 128 Computer Science I,minoring in computer science,,,,,,,,,3.0,Asian,Man
+163,163,2020/09/21 12:05:23 PM EST,CMP 128 Computer Science I,"Information Technology, Applied Associate of Science",Yes,Yes,Yes,Yes,No,No,No,First Choice,,Asian,Man
+164,164,2020/09/21 12:05:26 PM EST,CMP 128 Computer Science I,"CIS Game Development Option, Applied Associate of Science",No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+165,165,2020/09/21 12:06:04 PM EST,CMP 128 Computer Science I,"CIS Game Development Option, Applied Associate of Science",Yes,Yes,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+166,166,2020/09/21 12:06:20 PM EST,CMP 128 Computer Science I,Undecided,,,,,,,,,4.0,White/Caucasian,Man
+167,167,2020/09/21 12:06:23 PM EST,CMP 128 Computer Science I,Mechanical  Engineering,,,,,,,,,5.0,Hispanic or Latino,Man
+168,168,2020/09/21 12:06:49 PM EST,CMP 128 Computer Science I,Technology Engineering ,,,,,,,,,4.0,Hispanic or Latino,Man
+169,169,2020/09/21 12:58:59 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,Yes,No,No,No,No,First Choice,,Hispanic or Latino,Man
+170,170,2020/09/21 9:43:22 PM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,No,No,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+171,171,2020/09/22 10:02:13 AM EST,CMP 128 Computer Science I,liberal arts major,,,,,,,,,2.0,White/Caucasian,Man
+172,172,2020/09/22 10:05:23 AM EST,CMP 128 Computer Science I,liberal Arts Major,,,,,,,,,1.0,White/Caucasian,Man
+173,173,2020/09/22 11:13:02 AM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,No,Yes,No,No,No,First Choice,,Hispanic or Latino,Man
+174,174,2020/09/22 1:39:29 PM EST,CMP 120 Foundations of Information Security,Information Security Certificate of Achievement,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+175,175,2020/09/22 4:02:35 PM EST,CMP 120 Foundations of Information Security,Information Security Certificate of Achievement,No,No,Yes,Don't recall,Don't recall,Don't recall,Don't recall,Music Recording,,White/Caucasian,Man
+176,176,2020/09/22 4:10:01 PM EST,CMP 120 Foundations of Information Security,"Information Technology, Applied Associate of Science",No,No,Yes,No,No,No,No,First Choice,,Choose not to reply,Man
+177,177,2020/09/22 7:07:22 PM EST,CMP 120 Foundations of Information Security,"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,Biology,,Asian,Man
+178,178,2020/09/22 8:25:14 PM EST,CMP 120 Foundations of Information Security,"Information Technology, Applied Associate of Science",No,No,Yes,No,No,No,No,First Choice,,Multi-Racial,Woman
+179,179,2020/09/22 8:28:35 PM EST,CMP 120 Foundations of Information Security,"Information Technology, Applied Associate of Science",No,No,Yes,No,No,No,No,First Choice,,Multi-Racial,Woman
+180,180,2020/09/22 8:29:06 PM EST,CMP 120 Foundations of Information Security,"Information Technology, Applied Associate of Science",No,No,Yes,No,No,No,No,First Choice,,Multi-Racial,Woman
+181,181,2020/09/22 8:30:10 PM EST,CMP 128 Computer Science I,Mechanical Engineering Technology  ,,,,,,,,,4.0,Hispanic or Latino,Man
+182,182,2020/09/22 9:54:45 PM EST,CMP 128 Computer Science I,Undecided,,,,,,,,,2.0,White/Caucasian,Man
+183,183,2020/09/23 1:11:50 AM EST,CMP 128 Computer Science I,Chemistry,,,,,,,,,5.0,Hispanic or Latino,Man
+184,184,2020/09/23 9:56:12 AM EST,CMP 120 Foundations of Information Security,"Information Technology, Applied Associate of Science",Yes,Yes,Yes,Yes,No,Yes,No,First Choice,,Asian,Man
+185,185,2020/09/23 12:29:26 PM EST,CMP 120 Foundations of Information Security,"Computer Science, Associate of Science",No,No,No,No,No,No,No,Public Health,,Hispanic or Latino,Man
+186,186,2020/09/23 12:47:15 PM EST,CMP 120 Foundations of Information Security,"Information Technology, Applied Associate of Science",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Nursing,,Black/African American,Woman
+187,187,2020/09/23 1:31:06 PM EST,CMP 128 Computer Science I,EDAM,,,,,,,,,3.0,White/Caucasian,Woman
+188,188,2020/09/23 1:33:35 PM EST,CMP 128 Computer Science I,Non Degree seeking,,,,,,,,,3.0,Hispanic or Latino,Woman
+189,189,2020/09/23 1:33:47 PM EST,CMP 128 Computer Science I,share time (EDAM),,,,,,,,,4.0,Choose not to reply,Man
+190,190,2020/09/23 1:33:52 PM EST,CMP 128 Computer Science I,EDAM,,,,,,,,,4.0,White/Caucasian,Man
+191,191,2020/09/23 1:35:16 PM EST,CMP 128 Computer Science I,ShareTime CSIP Program,Yes,Yes,No,No,No,No,No,First Choice,,Black/African American,Man
+192,192,2020/09/23 1:35:48 PM EST,CMP 128 Computer Science I,Challenger Program,Yes,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+193,193,2020/09/23 1:37:37 PM EST,CMP 128 Computer Science I,Challenger Program,No,No,No,No,No,No,No,Engineering,,Hispanic or Latino,Man
+194,194,2020/09/23 2:19:17 PM EST,CMP 128 Computer Science I,"CIS Game Development Option, Applied Associate of Science",No,No,No,Don't recall,No,No,No,First Choice,,White/Caucasian,Non-binary
+195,195,2020/09/23 2:38:34 PM EST,CMP 131 Fundamentals of Programming (Python),Undecided,,,,,,,,,5.0,Hispanic or Latino,Man
+196,196,2020/09/23 2:38:59 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",Don't recall,Don't recall,Don't recall,Don't recall,No,No,No,First Choice,,Asian,Man
+197,197,2020/09/23 2:39:06 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,First Choice,,Multi-racial,Prefer not to say
+198,198,2020/09/23 2:39:22 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,Liberal Arts ,,Asian,Man
+199,199,2020/09/23 2:39:33 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",Yes,No,Yes,No,No,No,No,First Choice,,Asian,Man
+200,200,2020/09/23 2:39:44 PM EST,CMP 131 Fundamentals of Programming (Python),Undecided,,,,,,,,,4.0,Asian,Man
+201,201,2020/09/23 2:39:51 PM EST,CMP 131 Fundamentals of Programming (Python),"Computer Science, Associate of Science",No,No,No,No,No,No,No,First Choice,,Asian,Man
+202,202,2020/09/23 2:40:06 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",No,No,Yes,Yes,No,No,No,Computer Science,,Asian,Man
+203,203,2020/09/23 2:40:11 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",Yes,No,Yes,Yes,No,No,No,First Choice,,Hispanic or Latino,Man
+204,204,2020/09/23 2:40:12 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",Yes,Yes,No,No,No,No,No,First Choice,,Black/African American,Man
+205,205,2020/09/23 2:40:53 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",Yes,Yes,Yes,Yes,Don't recall,Don't recall,Don't recall,First Choice,,White/Caucasian,Man
+206,206,2020/09/23 2:41:18 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",Yes,Yes,No,No,No,No,No,Music Recording,,White/Caucasian,Man
+207,207,2020/09/23 2:42:50 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",Yes,Yes,Yes,No,No,No,No,Biology,,Asian,Man
+208,208,2020/09/23 2:42:53 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,Business Administration ,,Hispanic or Latino,Man
+209,209,2020/09/23 2:46:06 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",Yes,No,No,Don't recall,No,No,No,First Choice,,Multi-racial,Prefer not to say
+210,210,2020/09/23 4:10:09 PM EST,CMP 128 Computer Science I,"CIS Game Development Option, Applied Associate of Science",Yes,Yes,Yes,No,No,No,No,First Choice,,Multi-racial,Woman
+211,211,2020/09/23 9:11:48 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,Business Administration ,,Hispanic or Latino,Man
+212,212,2020/09/23 9:30:16 PM EST,CMP 128 Computer Science I,business admin,,,,,,,,,2.0,White/Caucasian,Man
+213,213,2020/09/23 10:23:41 PM EST,CMP 120 Foundations of Information Security,Information Security Certificate of Achievement,No,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+214,214,2020/09/23 10:35:25 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,Yes,No,No,No,No,Hospitality Major,,Asian,Woman
+215,215,2020/09/23 11:19:37 PM EST,CMP 128 Computer Science I,Information Technology ,,,,,,,,,4.0,Asian,Man
+216,216,2020/09/24 12:42:08 AM EST,CMP 128 Computer Science I,Business Administration,,,,,,,,,5.0,Multi-racial,Woman
+217,217,2020/09/24 11:08:21 AM EST,CMP 239 Internet & Web Page Design,"Computer Science, Associate of Science",No,No,Yes,Yes,No,No,No,First Choice,,Hispanic or Latino,Man
+218,218,2020/09/24 11:10:48 AM EST,CMP 239 Internet & Web Page Design,"Digital Media Technology, Applied Associate of Science",Yes,Yes,No,No,No,No,No,computer science ,,Black/African American,Man
+219,219,2020/09/24 11:19:18 AM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Yes,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Man
+220,220,2020/09/24 11:22:45 AM EST,CMP 239 Internet & Web Page Design,"Information Technology, Applied Associate of Science",Yes,No,Yes,No,Yes,No,No,Criminal Justice,,Hispanic or Latino,Man
+221,221,2020/09/24 11:23:03 AM EST,CMP 128 Computer Science I,Business Administration,,,,,,,,,3.0,White/Caucasian,Woman
+222,222,2020/09/24 11:50:04 AM EST,CMP 128 Computer Science I,"CIS Game Development Option, Applied Associate of Science",No,No,Yes,No,No,No,No,"I already have an A.S. Degree in Public Administration from CCM and this is my newest venture, and what I want to do for the rest of my life (Be involved with computers and gaming)",,White/Caucasian,Man
+223,223,2020/09/24 12:13:49 PM EST,CMP 128 Computer Science I,Mechanical Engineering,,,,,,,,,4.0,Multi-racial,Man
+224,224,2020/09/24 12:16:06 PM EST,CMP 131 Fundamentals of Programming (Python),Non Degree seeking,,,,,,,,,5.0,Hispanic or Latino,Woman
+225,225,2020/09/24 12:16:45 PM EST,CMP 128 Computer Science I,Mechanical Engineering Technology,,,,,,,,,3.0,White/Caucasian,Man
+226,226,2020/09/24 12:29:58 PM EST,CMP 239 Internet & Web Page Design,"Information Technology, Applied Associate of Science",Yes,Yes,No,Yes,No,No,No,First Choice,,White/Caucasian,Man
+227,227,2020/09/24 12:32:56 PM EST,CMP 130 Intro to IT,"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+228,228,2020/09/24 12:34:43 PM EST,CMP 130 Intro to IT,"Information Technology, Applied Associate of Science",Yes,Yes,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+229,229,2020/09/24 12:43:05 PM EST,CMP 130 Intro to IT,"Information Technology, Applied Associate of Science",No,No,Yes,Yes,Yes,Yes,No,First Choice,,Asian,Man
+230,230,2020/09/24 1:03:07 PM EST,CMP 130 Intro to IT,Undecided,,,,,,,,,4.0,White/Caucasian,Man
+231,231,2020/09/24 1:03:44 PM EST,CMP 130 Intro to IT,"Information Technology, Applied Associate of Science",Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,First Choice,,Asian,Man
+232,232,2020/09/24 1:06:24 PM EST,CMP 130 Intro to IT,"Information Technology, Applied Associate of Science",Yes,No,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+233,233,2020/09/24 1:07:54 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",No,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Man
+234,234,2020/09/24 1:13:30 PM EST,CMP 130 Intro to IT,"Information Technology, Applied Associate of Science",No,No,No,Yes,No,No,No,Hospitality & Biology ,,Black/African American,Man
+235,235,2020/09/24 1:15:45 PM EST,CMP 130 Intro to IT,"Computer Science, Associate of Science",Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,First Choice,,Hispanic or Latino,Woman
+236,236,2020/09/24 1:23:11 PM EST,CMP 130 Intro to IT,"Information Technology, Applied Associate of Science",Don't recall,Don't recall,Yes,Yes,Don't recall,Don't recall,Don't recall,First Choice,,White/Caucasian,Man
+237,237,2020/09/24 1:28:06 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",No,No,Yes,Yes,No,No,Yes,First Choice,,White/Caucasian,Man
+238,238,2020/09/24 1:28:49 PM EST,CMP 120 Foundations of Information Security,"Information Technology, Applied Associate of Science",Yes,No,Yes,Yes,No,No,No,First Choice,,Asian,Man
+239,239,2020/09/24 1:30:00 PM EST,CMP 130 Intro to IT,Challenger Program,Yes,No,No,No,No,No,No,First Choice,,Multi-racial,Man
+240,240,2020/09/24 1:31:23 PM EST,CMP 130 Intro to IT,"Information Technology, Applied Associate of Science",Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,First Choice,,Multi-racial,Man
+241,241,2020/09/24 1:59:10 PM EST,CMP 130 Intro to IT,"Information Technology, Applied Associate of Science",No,No,Yes,Yes,No,No,No,Radiography,,White/Caucasian,Woman
+242,242,2020/09/24 2:03:06 PM EST,CMP 130 Intro to IT,"Information Technology, Applied Associate of Science",No,No,Yes,No,No,No,No,First Choice,,White/Caucasian,Woman
+243,243,2020/09/24 2:05:07 PM EST,CMP 130 Intro to IT,"Computer Science, Associate of Science",Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,First Choice,,Choose not to reply,Man
+244,244,2020/09/24 2:28:18 PM EST,CMP 128 Computer Science I,Business Administration,,,,,,,,,1.0,White/Caucasian,Woman
+245,245,2020/09/24 2:45:24 PM EST,CMP 130 Intro to IT,"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,Arch.,,Black/African American,Man
+246,246,2020/09/24 2:50:41 PM EST,CMP 120 Foundations of Information Security,"Computer Science, Associate of Science",Yes,Yes,No,Don't recall,No,Don't recall,Don't recall,First Choice,,Choose not to reply,Prefer not to say
+247,247,2020/09/24 3:19:18 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",No,No,Yes,No,No,No,No,Engineering Science,,White/Caucasian,Man
+248,248,2020/09/24 3:19:26 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,No,No,No,No,No,MES,,White/Caucasian,Man
+249,249,2020/09/24 3:23:47 PM EST,CMP 128 Computer Science I,"Information Technology, Applied Associate of Science",No,No,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+250,250,2020/09/24 3:33:29 PM EST,CMP 128 Computer Science I,Engineering Science: Biomedical Equipment Option,,,,,,,,,5.0,White/Caucasian,Woman
+251,251,2020/09/24 3:48:30 PM EST,CMP 128 Computer Science I,Mechanical Engineering,,,,,,,,,5.0,Multi-racial,Man
+252,252,2020/09/24 3:58:59 PM EST,CMP 128 Computer Science I,Information Security Certificate of Achievement,No,No,Don't recall,Yes,No,No,No,"I am currently a business major, as well as a Cybersecurity major.",,White/Caucasian,Man
+253,253,2020/09/24 4:01:19 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Woman
+254,254,2020/09/24 4:19:14 PM EST,CMP 130 Intro to IT,"Information Technology, Applied Associate of Science",Don't recall,Don't recall,Yes,Yes,No,No,No,First Choice,,Asian,Woman
+255,255,2020/09/24 5:01:22 PM EST,CMP 130 Intro to IT,"Information Technology, Applied Associate of Science",No,No,Yes,Yes,Yes,No,Yes,First Choice,,White/Caucasian,Man
+256,256,2020/09/24 5:01:41 PM EST,CMP 128 Computer Science I,Nursing,,,,,,,,,1.0,Multi-racial,Woman
+257,257,2020/09/24 5:26:35 PM EST,CMP 130 Intro to IT,"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,Electronical Engineering ,,Hispanic or Latino,Man
+258,258,2020/09/24 5:34:53 PM EST,CMP 130 Intro to IT,Information Security Certificate of Achievement,No,No,No,No,No,No,No,"no, engineering science",,Hispanic or Latino,Man
+259,259,2020/09/24 5:52:54 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",No,No,Yes,Yes,No,No,No,First Choice,,Black/African American,Woman
+260,260,2020/09/24 6:38:53 PM EST,CMP 120 Foundations of Information Security,"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+261,261,2020/09/24 6:52:46 PM EST,CMP 128 Computer Science I,"CIS Game Development Option, Applied Associate of Science",No,No,No,No,No,No,No,First Choice,,White/Caucasian,Woman
+262,262,2020/09/24 7:43:43 PM EST,CMP 128 Computer Science I,"CIS Game Development Option, Applied Associate of Science",No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+263,263,2020/09/24 9:44:52 PM EST,CMP 130 Intro to IT,"Information Technology, Applied Associate of Science",Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,First Choice,,Choose not to reply,Man
+264,264,2020/09/24 10:15:13 PM EST,CMP 120 Foundations of Information Security,Information Security Certificate of Achievement,No,No,No,No,No,No,No,First Choice,,Black/African American,Man
+265,265,2020/09/24 10:17:30 PM EST,CMP 130 Intro to IT,"Computer Science, Associate of Science",No,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Man
+266,266,2020/09/24 10:34:04 PM EST,CMP 131 Fundamentals of Programming (Python),"Computer Science, Associate of Science",No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+267,267,2020/09/24 11:44:26 PM EST,CMP 128 Computer Science I,ShareTime CSIP Program,No,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+268,268,2020/09/25 1:01:40 AM EST,CMP 130 Intro to IT,"Information Technology, Applied Associate of Science",No,No,Yes,Yes,No,No,No,First Choice,,Asian,Man
+269,269,2020/09/25 6:17:57 AM EST,CMP 120 Foundations of Information Security,"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+270,270,2020/09/25 8:15:18 AM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Yes,Yes,No,No,No,No,No,Biology,,White/Caucasian,Man
+271,271,2020/09/25 9:15:53 AM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Man
+272,272,2020/09/25 9:16:06 AM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Yes,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Man
+273,273,2020/09/25 10:18:08 AM EST,CMP 120 Foundations of Information Security,"Computer Science, Associate of Science",Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,First Choice,,White/Caucasian,Prefer not to say
+274,274,2020/09/25 10:43:01 AM EST,CMP 128 Computer Science I,Business Administration ,,,,,,,,,3.0,Asian,Man
+275,275,2020/09/25 12:17:50 PM EST,CMP 128 Computer Science I,Business Administration,,,,,,,,,5.0,Multi-racial,Woman
+276,276,2020/09/25 6:58:19 PM EST,CMP 120 Foundations of Information Security,"Information Technology, Applied Associate of Science",No,No,No,No,No,No,No,First Choice,,Black/African American,Man
+277,277,2020/09/25 9:48:46 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,Yes,No,No,No,No,Exercise science,,White/Caucasian,Man
+278,278,2020/09/26 4:30:27 PM EST,CMP 120 Foundations of Information Security,"Computer Science, Associate of Science",Yes,No,No,Yes,No,No,No,First Choice,,Asian,Man
+279,279,2020/09/26 6:22:05 PM EST,CMP 128 Computer Science I,Mechanical/Electrical Engineer,,,,,,,,,3.0,White/Caucasian,Man
+280,280,2020/09/26 7:16:44 PM EST,CMP 131 Fundamentals of Programming (Python),"Computer Science, Associate of Science",No,No,Yes,No,No,No,No,Hospitality & Culinary Major,,Asian,Woman
+281,281,2020/09/27 10:10:27 AM EST,CMP 128 Computer Science I,Undecided,,,,,,,,,4.0,Multi-racial,Man
+282,282,2020/09/27 11:39:12 PM EST,CMP 130 Intro to IT,"Computer Science, Associate of Science",No,No,No,No,No,No,No,Physics,,Asian,Man
+283,283,2020/09/28 10:55:41 AM EST,CMP 128 Computer Science I,"Information Technology, Applied Associate of Science",Don't recall,Don't recall,Yes,Yes,Don't recall,Don't recall,Don't recall,First Choice,,Asian,Man
+284,284,2020/09/28 11:15:36 AM EST,CMP 239 Internet & Web Page Design,"Computer Science, Associate of Science",No,No,Yes,No,No,No,No,Industrial Engineering at a pervious college followed by Mathematics at CCM,,Asian,Man
+285,285,2020/09/29 4:38:45 AM EST,CMP 131 Fundamentals of Programming (Python),"Computer Science, Associate of Science",No,No,No,Don't recall,No,No,No,First Choice,,White/Caucasian,Man
+286,286,2020/09/30 2:35:28 PM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,First Choice,,White/Caucasian,Man
+287,287,2020/09/30 6:08:29 PM EST,CMP 120 Foundations of Information Security,"Computer Science, Associate of Science",Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,First Choice,,Choose not to reply,Non-binary
+288,288,2020/10/01 12:30:53 AM EST,CMP 128 Computer Science I,Business Administration,,,,,,,,,4.0,Multi-racial,Man
+289,289,2020/10/03 10:09:30 AM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",No,No,No,No,No,No,No,First Choice,,Asian,Man
+290,290,2020/10/05 5:34:38 PM EST,CMP 120 Foundations of Information Security,"Computer Science, Associate of Science",Yes,No,Yes,No,No,No,No,First Choice,,Hispanic or Latino,Man
+291,291,2020/10/08 7:38:17 PM EST,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,No,No,Yes,Yes,No,No,No,First Choice,,Asian,Woman
+292,292,2020/10/10 7:00:32 PM EST,CMP 130 Intro to IT,Challenger Program,Yes,No,Don't recall,No,No,No,No,First Choice,,Choose not to reply,Man
+293,293,2020/10/13 5:07:17 PM EST,CMP 130 Intro to IT,"Computer Science, Associate of Science",No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+294,294,2020/10/14 10:08:02 AM EST,CMP 131 Fundamentals of Programming (Python),"Information Technology, Applied Associate of Science",Yes,Yes,No,No,No,No,No,First Choice,,Black/African American,Man
+295,295,2020/10/14 6:18:25 PM EST,CMP 131 Fundamentals of Programming (Python),"Computer Science, Associate of Science",Don't recall,Don't recall,Yes,Yes,No,No,No,First Choice,,Choose not to reply,Prefer not to say
+296,296,2020/10/22 6:59:06 PM EST,CMP 128 Computer Science I,Undecided,,,,,,,,,2.0,Asian,Woman
+297,297,2020/10/26 1:27:44 PM EST,CMP 128 Computer Science I,"Computer Science, Associate of Science",Yes,Yes,Don't recall,No,Don't recall,Don't recall,Don't recall,First Choice,,White/Caucasian,Man
+298,0,2021/10/03 9:49:52 PM EST,CMP 128 Computer Science I,Non Degree seeking,,,,,,,,,5.0,Asian,Woman
+299,1,2021/10/04 6:31:09 AM EST,CMP 128 Computer Science I,Electronic engineering ,,,,,,,,,5.0,Hispanic or Latino,Man
+300,2,2021/10/04 7:57:04 AM EST,CMP 128 Computer Science I,Computer Science,No,Yes,No,No,No,No,No,First Choice,,White/Caucasian,Man
+301,3,2021/10/04 9:20:16 AM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,Choose not to reply,Man
+302,4,2021/10/04 11:26:08 AM EST,CMP 128 Computer Science I,Mechanical Engineering,,,,,,,,,4.0,White/Caucasian,Man
+303,5,2021/10/04 12:20:25 PM EST,CMP 128 Computer Science I,Computer Science,No,Yes,No,No,No,No,No,First Choice,,White/Caucasian,Man
+304,6,2021/10/04 12:20:41 PM EST,CMP 128 Computer Science I,Electronic Engineering,,,,,,,,,5.0,White/Caucasian,Man
+305,7,2021/10/04 12:20:47 PM EST,CMP 128 Computer Science I,Undecided,,,,,,,,,3.0,Asian,Woman
+306,8,2021/10/04 12:20:55 PM EST,CMP 128 Computer Science I,Mathematics and Science,,,,,,,,,4.0,White/Caucasian,Man
+307,9,2021/10/04 12:21:08 PM EST,CMP 128 Computer Science I,Computer Science,No,No,Yes,No,No,No,No,First Choice,,Hispanic or Latino,Man
+308,10,2021/10/04 12:21:09 PM EST,CMP 128 Computer Science I,Computer Science,No,No,Yes,Yes,No,No,No,Engineering,,White/Caucasian,Man
+309,11,2021/10/04 12:21:28 PM EST,CMP 128 Computer Science I,Non Degree seeking,,,,,,,,,5.0,Asian,Woman
+310,12,2021/10/04 12:21:37 PM EST,CMP 128 Computer Science I,mechanical engineering,,,,,,,,,2.0,White/Caucasian,Man
+311,13,2021/10/04 12:23:01 PM EST,CMP 128 Computer Science I,Non Degree seeking,,,,,,,,,4.0,White/Caucasian,Woman
+312,14,2021/10/04 12:23:02 PM EST,CMP 128 Computer Science I,Computer Science,No,No,Yes,Yes,Yes,Yes,Yes,First Choice,,White/Caucasian,Man
+313,15,2021/10/04 12:23:19 PM EST,CMP 128 Computer Science I,libral arts,,,,,,,,,3.0,White/Caucasian,Woman
+314,16,2021/10/04 12:23:20 PM EST,CMP 128 Computer Science I,Computer Science,Don't recall,Don't recall,No,No,No,No,No,First Choice,,White/Caucasian,Man
+315,17,2021/10/04 12:24:12 PM EST,CMP 128 Computer Science I,Non Degree seeking,,,,,,,,,2.0,White/Caucasian,Woman
+316,18,2021/10/04 12:24:36 PM EST,CMP 128 Computer Science I,CIS Game Development Option,No,No,No,Yes,No,No,No,First Choice,,White/Caucasian,Man
+317,19,2021/10/04 12:25:09 PM EST,CMP 128 Computer Science I,mechanical engineering ,,,,,,,,,3.0,White/Caucasian,Man
+318,20,2021/10/04 12:26:05 PM EST,CMP 128 Computer Science I,Computer Science,No,Yes,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+319,21,2021/10/04 12:27:43 PM EST,CMP 128 Computer Science I,Mechanical Engineering ,,,,,,,,,4.0,Asian,Man
+320,22,2021/10/04 12:30:10 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,Asian,Man
+321,23,2021/10/04 12:55:57 PM EST,CMP 128 Computer Science I,Computer Science,Yes,Yes,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+322,24,2021/10/04 2:37:29 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,Yes,No,No,No,Engineering,,White/Caucasian,Man
+323,25,2021/10/04 2:38:18 PM EST,CMP 128 Computer Science I,Computer Science,No,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Man
+324,26,2021/10/04 2:38:38 PM EST,CMP 128 Computer Science I,Computer Science,No,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Man
+325,27,2021/10/04 2:38:50 PM EST,CMP 128 Computer Science I,Administrative Business,,,,,,,,,5.0,White/Caucasian,Man
+326,28,2021/10/04 2:39:40 PM EST,CMP 128 Computer Science I,Computer Science,No,Yes,No,No,No,No,No,Not a comp sci major. I'm a nursing major,,Hispanic or Latino,Man
+327,29,2021/10/04 2:40:02 PM EST,CMP 128 Computer Science I,Mechanical Engineering,,,,,,,,,5.0,Black/African American,Man
+328,30,2021/10/04 2:40:12 PM EST,CMP 128 Computer Science I,Computer Science,No,No,Yes,Yes,No,No,No,Engineering,,White/Caucasian,Man
+329,31,2021/10/04 2:40:30 PM EST,CMP 128 Computer Science I,Computer Science,No,No,Yes,No,No,No,No,First Choice,,Black/African American,Woman
+330,32,2021/10/04 2:40:32 PM EST,CMP 128 Computer Science I,Computer Science,No,No,Yes,No,No,No,No,First Choice,,Hispanic or Latino,Man
+331,33,2021/10/04 2:40:46 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,Engineering,,Hispanic or Latino,Man
+332,34,2021/10/04 2:41:12 PM EST,CMP 128 Computer Science I,CIS Game Development Option,Yes,Yes,Yes,Yes,No,No,No,First Choice,,Hispanic or Latino,Man
+333,35,2021/10/04 2:41:19 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,Asian,Man
+334,36,2021/10/04 2:42:44 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+335,37,2021/10/04 2:42:46 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,Engineering,,White/Caucasian,Man
+336,38,2021/10/04 2:44:37 PM EST,CMP 128 Computer Science I,electronic engineering ,,,,,,,,,5.0,Hispanic or Latino,Man
+337,39,2021/10/04 7:22:20 PM EST,CMP 128 Computer Science I,"Business Admin, might change to CompSci :)",,,,,,,,,5.0,White/Caucasian,Man
+338,40,2021/10/04 7:49:10 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+339,41,2021/10/04 7:52:09 PM EST,CMP 128 Computer Science I,Computer Science,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,First Choice,,Choose not to reply,Prefer not to say
+340,42,2021/10/04 8:26:51 PM EST,CMP 128 Computer Science I,Information Technology,Yes,No,Yes,Yes,Yes,Yes,Yes,Engineering,,Asian,Man
+341,43,2021/10/04 10:41:25 PM EST,CMP 130 Intro to IT,Computer Science,No,No,Yes,Yes,No,No,No,First Choice,,Asian,Man
+342,44,2021/10/05 8:27:25 AM EST,CMP 128 Computer Science I,Electrical Engineering,,,,,,,,,3.0,Multi-racial,Man
+343,45,2021/10/05 10:44:24 AM EST,CMP 130 Intro to IT,Information Technology,No,No,Yes,No,No,No,No,Personal Fitness,,White/Caucasian,Man
+344,46,2021/10/05 12:32:09 PM EST,CMP 131 Fundamentals of Programming (Python),Computer Science,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+345,47,2021/10/05 1:17:59 PM EST,CMP 130 Intro to IT,Information Technology,No,No,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+346,48,2021/10/05 1:31:23 PM EST,CMP 128 Computer Science I,Computer Science,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Engineering,,Hispanic or Latino,Man
+347,49,2021/10/05 2:15:49 PM EST,CMP 128 Computer Science I,Web Development Certificate of Achievement,No,No,Yes,Yes,No,No,No,RADIOGRAPHY-STILL ENROLLED,,Hispanic or Latino,Man
+348,50,2021/10/05 2:37:36 PM EST,CMP 131 Fundamentals of Programming (Python),Computer Science,No,No,No,Yes,No,No,No,First Choice,,Asian,Man
+349,51,2021/10/05 2:38:49 PM EST,CMP 131 Fundamentals of Programming (Python),Computer Science,No,No,No,Yes,No,No,No,First Choice,,White/Caucasian,Man
+350,52,2021/10/05 2:39:34 PM EST,CMP 131 Fundamentals of Programming (Python),Information Technology,No,No,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+351,53,2021/10/05 2:39:42 PM EST,CMP 131 Fundamentals of Programming (Python),Information Technology,Don't recall,Don't recall,Yes,Don't recall,Don't recall,Don't recall,Don't recall,Engineering,,Hispanic or Latino,Man
+352,54,2021/10/05 2:40:26 PM EST,CMP 131 Fundamentals of Programming (Python),Information Technology,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+353,55,2021/10/05 2:43:03 PM EST,CMP 131 Fundamentals of Programming (Python),Computer Science,Yes,Don't recall,Don't recall,Don't recall,No,No,No,First Choice,,Asian,Man
+354,56,2021/10/05 2:45:13 PM EST,CMP 131 Fundamentals of Programming (Python),Information Technology,Yes,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Man
+355,57,2021/10/05 2:45:33 PM EST,CMP 131 Fundamentals of Programming (Python),Information Technology,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+356,58,2021/10/05 2:48:18 PM EST,CMP 131 Fundamentals of Programming (Python),Information Technology,Yes,Yes,No,No,No,No,No,First Choice,,American Indian/Native American/Alaska Native,Man
+357,59,2021/10/05 3:38:50 PM EST,CMP 128 Computer Science I,Business,,,,,,,,,2.0,White/Caucasian,Man
+358,60,2021/10/05 4:47:22 PM EST,CMP 131 Fundamentals of Programming (Python),Data Analytics Certificate of Achievement,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+359,61,2021/10/05 4:50:43 PM EST,CMP 131 Fundamentals of Programming (Python),Data Analytics Certificate of Achievement,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+360,62,2021/10/05 4:50:58 PM EST,CMP 130 Intro to IT,Information Technology,Yes,Yes,Yes,Yes,No,Yes,Yes,Science,,White/Caucasian,Man
+361,63,2021/10/05 4:56:54 PM EST,CMP 130 Intro to IT,Information Technology,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,First Choice,,White/Caucasian,Man
+362,64,2021/10/05 5:46:35 PM EST,CMP 128 Computer Science I,Computer Science,No,No,Yes,Yes,No,No,No,First Choice,,Black/African American,Man
+363,65,2021/10/05 6:43:02 PM EST,CMP 130 Intro to IT,Information Technology,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+364,66,2021/10/05 7:59:51 PM EST,CMP 130 Intro to IT,Information Technology,No,No,No,No,No,No,No,Science,,Hispanic or Latino,Man
+365,67,2021/10/05 11:33:32 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+366,68,2021/10/06 9:50:42 AM EST,CMP 131 Fundamentals of Programming (Python),Computer Science,Yes,Don't recall,No,No,No,No,No,First Choice,,Asian,Man
+367,69,2021/10/06 11:17:44 AM EST,CMP 128 Computer Science I,Information Technology,No,No,No,Yes,No,Yes,No,First Choice,,Multi-racial,Man
+368,70,2021/10/06 4:49:43 PM EST,CMP 131 Fundamentals of Programming (Python),Mathematics and Science,,,,,,,,,5.0,White/Caucasian,Woman
+369,71,2021/10/06 4:56:35 PM EST,CMP 128 Computer Science I,Business ,,,,,,,,,4.0,White/Caucasian,Man
+370,72,2021/10/06 6:46:48 PM EST,CMP 128 Computer Science I,Computer Science,No,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Man
+371,73,2021/10/07 11:24:05 AM EST,CMP 128 Computer Science I,"Technical Studies, Applied Associate of Science",No,No,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+372,74,2021/10/07 12:47:18 PM EST,CMP 128 Computer Science I,Undecided,,,,,,,,,3.0,Multi-racial,Woman
+373,75,2021/10/07 12:55:25 PM EST,CMP 131 Fundamentals of Programming (Python),Information Technology,Don't recall,Don't recall,Yes,Don't recall,No,No,No,First Choice,,White/Caucasian,Man
+374,76,2021/10/07 2:09:27 PM EST,CMP 128 Computer Science I,Computer Science,No,No,Don't recall,Yes,No,No,No,First Choice,,Hispanic or Latino,Man
+375,77,2021/10/07 4:26:43 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,LIberal Arts,,Multi-racial,Man
+376,78,2021/10/07 5:00:23 PM EST,CMP 128 Computer Science I,Radiography ,,,,,,,,,5.0,Hispanic or Latino,Man
+377,79,2021/10/07 5:37:56 PM EST,CMP 239 Internet & Web Page Design,Information Technology,No,No,Yes,No,No,No,No,Business,,White/Caucasian,Man
+378,80,2021/10/07 6:21:48 PM EST,CMP 128 Computer Science I,Computer Science,No,Yes,No,No,No,No,No,First Choice,,White/Caucasian,Man
+379,81,2021/10/07 6:30:34 PM EST,CMP 128 Computer Science I,Computer Science,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Business or science,,Hispanic or Latino,Man
+380,82,2021/10/07 7:07:49 PM EST,CMP 239 Internet & Web Page Design,Digital Media Technology,Yes,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Woman
+381,83,2021/10/07 7:13:14 PM EST,CMP 239 Internet & Web Page Design,Information Technology,No,No,Yes,No,No,No,No,Graphic Design,,Hispanic or Latino,Man
+382,84,2021/10/07 7:52:11 PM EST,CMP 239 Internet & Web Page Design,Information Technology,No,No,No,No,No,No,No,criminal justice ,,White/Caucasian,Man
+383,85,2021/10/07 8:25:10 PM EST,CMP 239 Internet & Web Page Design,Digital Media Technology,No,No,No,No,No,No,No,"second degree, first degree was engineering",,Hispanic or Latino,Man
+384,86,2021/10/07 8:25:18 PM EST,CMP 239 Internet & Web Page Design,Information Technology,Yes,Yes,Yes,Yes,Yes,No,No,Science,,White/Caucasian,Man
+385,87,2021/10/07 8:25:51 PM EST,CMP 239 Internet & Web Page Design,Web Development Certificate of Achievement,No,No,No,No,No,No,No,Music,,White/Caucasian,Man
+386,88,2021/10/07 8:26:01 PM EST,CMP 239 Internet & Web Page Design,Information Technology,No,No,No,No,No,No,No,Design: Architecture,,White/Caucasian,Man
+387,89,2021/10/07 8:26:54 PM EST,CMP 239 Internet & Web Page Design,Computer Science,No,No,Don't recall,Don't recall,No,No,No,Information Technologies,,White/Caucasian,Man
+388,90,2021/10/07 8:27:55 PM EST,CMP 239 Internet & Web Page Design,Information Technology,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+389,91,2021/10/07 8:31:30 PM EST,CMP 239 Internet & Web Page Design,Graphic Design ,,,,,,,,,5.0,Hispanic or Latino,Woman
+390,92,2021/10/08 8:44:43 AM EST,CMP 128 Computer Science I,Computer Science,Don't recall,Yes,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+391,93,2021/10/08 8:45:25 AM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,Black/African American,Man
+392,94,2021/10/08 8:46:05 AM EST,CMP 128 Computer Science I,Mathematics,,,,,,,,,3.0,Asian,Man
+393,95,2021/10/08 8:47:31 AM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,Asian,Man
+394,96,2021/10/08 8:48:00 AM EST,CMP 128 Computer Science I,Challenger Program,Yes,Yes,Don't recall,Yes,No,No,No,First Choice,,White/Caucasian,Woman
+395,97,2021/10/08 8:48:58 AM EST,CMP 128 Computer Science I,Biology Environmental Track,,,,,,,,,3.0,Choose not to reply,Prefer not to say
+396,98,2021/10/08 8:50:09 AM EST,CMP 128 Computer Science I,Computer Science,Yes,No,Yes,No,No,No,No,First Choice,,Asian,Man
+397,99,2021/10/08 8:51:32 AM EST,CMP 128 Computer Science I,Dual Enrollment,,,,,,,,,4.0,Asian,Woman
+398,100,2021/10/08 8:51:37 AM EST,CMP 128 Computer Science I,Computer Science,Yes,Yes,Yes,Yes,No,Yes,Yes,Engineering,,White/Caucasian,Man
+399,101,2021/10/08 8:51:42 AM EST,CMP 128 Computer Science I,Computer Science,Yes,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+400,102,2021/10/08 8:52:22 AM EST,CMP 128 Computer Science I,Information Technology,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+401,103,2021/10/08 8:52:33 AM EST,CMP 128 Computer Science I,mechanical engineering technology ,,,,,,,,,3.0,Hispanic or Latino,Man
+402,104,2021/10/08 8:52:36 AM EST,CMP 128 Computer Science I,Computer Science,No,Yes,No,No,No,No,No,First Choice,,Black/African American,Man
+403,105,2021/10/08 8:53:52 AM EST,CMP 128 Computer Science I,Electronics engineering technology,,,,,,,,,4.0,White/Caucasian,Man
+404,106,2021/10/08 8:57:05 AM EST,CMP 128 Computer Science I,Mechanical Engineering,,,,,,,,,4.0,White/Caucasian,Man
+405,107,2021/10/08 8:57:51 AM EST,CMP 128 Computer Science I,Challenger Program,Yes,Yes,Yes,No,No,No,No,First Choice,,White/Caucasian,Woman
+406,108,2021/10/08 9:00:26 AM EST,CMP 128 Computer Science I,mechanical engineering technology ,,,,,,,,,3.0,Hispanic or Latino,Man
+407,109,2021/10/08 9:02:33 AM EST,CMP 128 Computer Science I,Computer Science,Yes,Yes,No,Yes,No,No,No,First Choice,,Multi-racial,Man
+408,110,2021/10/08 9:21:44 AM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+409,111,2021/10/08 9:25:45 AM EST,CMP 239 Internet & Web Page Design,Graphic Design,,,,,,,,,4.0,Hispanic or Latino,Man
+410,112,2021/10/08 11:30:39 AM EST,CMP 128 Computer Science I,ShareTime CSIP Program,No,No,No,No,No,No,No,Engineering,,Hispanic or Latino,Woman
+411,113,2021/10/08 11:32:27 AM EST,CMP 239 Internet & Web Page Design,Computer Science,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Woman
+412,114,2021/10/08 11:33:00 AM EST,CMP 131 Fundamentals of Programming (Python),Information Technology,Yes,Yes,Yes,Yes,Yes,Yes,Yes,First Choice,,Choose not to reply,Man
+413,115,2021/10/08 11:36:30 AM EST,CMP 128 Computer Science I,Computer Science,Don't recall,Don't recall,No,Yes,No,No,No,First Choice,,White/Caucasian,Man
+414,116,2021/10/08 11:37:48 AM EST,CMP 128 Computer Science I,Information Technology,Yes,Yes,Don't recall,No,No,No,No,First Choice,,Asian,Man
+415,117,2021/10/08 11:53:07 AM EST,CMP 128 Computer Science I,Undecided,,,,,,,,,4.0,White/Caucasian,Man
+416,118,2021/10/08 11:53:09 AM EST,CMP 128 Computer Science I,Mechanical Engineering,,,,,,,,,5.0,White/Caucasian,Man
+417,119,2021/10/08 1:13:03 PM EST,CMP 128 Computer Science I,ShareTime EDAM Program,,,,,,,,,5.0,White/Caucasian,Woman
+418,120,2021/10/08 2:47:14 PM EST,CMP 239 Internet & Web Page Design,Information Technology,Don't recall,No,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+419,121,2021/10/08 3:21:17 PM EST,CMP 128 Computer Science I,Information Technology,No,No,Yes,Yes,Yes,No,No,Engineering,,Asian,Man
+420,122,2021/10/08 3:21:53 PM EST,CMP 128 Computer Science I,Non Degree seeking,,,,,,,,,3.0,White/Caucasian,Woman
+421,123,2021/10/08 3:21:59 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+422,124,2021/10/08 3:22:04 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,Yes,No,No,No,First Choice,,Hispanic or Latino,Man
+423,125,2021/10/08 3:23:06 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,Black/African American,Woman
+424,126,2021/10/08 3:26:14 PM EST,CMP 128 Computer Science I,Undecided,,,,,,,,,4.0,Asian,Woman
+425,127,2021/10/08 3:29:13 PM EST,CMP 128 Computer Science I,Digital Media Technology,No,No,No,Yes,Yes,No,No,First Choice,,White/Caucasian,Man
+426,128,2021/10/08 3:32:20 PM EST,CMP 128 Computer Science I,Computer Science,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,First Choice,,American Indian/Native American/Alaska Native,Woman
+427,129,2021/10/08 5:11:26 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,Yes,No,No,No,First Choice,,Asian,Woman
+428,130,2021/10/09 12:37:29 PM EST,CMP 128 Computer Science I,Liberal Arts Program,,,,,,,,,4.0,White/Caucasian,Woman
+429,131,2021/10/09 12:44:15 PM EST,CMP 128 Computer Science I,Visiting student,,,,,,,,,4.0,Hispanic or Latino,Woman
+430,132,2021/10/09 3:00:36 PM EST,CMP 128 Computer Science I,CIS Game Development Option,No,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Woman
+431,133,2021/10/09 5:37:37 PM EST,CMP 128 Computer Science I,Web Development Certificate of Achievement,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,,,White/Caucasian,Man
+432,134,2021/10/09 6:19:22 PM EST,CMP 128 Computer Science I,Computer Science,No,No,Yes,No,No,No,No,nursing,,Choose not to reply,Man
+433,135,2021/10/10 3:29:21 PM EST,CMP 128 Computer Science I,Non Degree seeking,,,,,,,,,4.0,Multi-racial,Man
+434,136,2021/10/10 6:57:35 PM EST,CMP 128 Computer Science I,Information Technology,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+435,137,2021/10/10 8:55:25 PM EST,CMP 239 Internet & Web Page Design,Digital Media Technology,No,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Man
+436,138,2021/10/10 9:06:35 PM EST,CMP 239 Internet & Web Page Design,Digital Media Technology,Yes,Yes,No,No,No,No,No,First Choice,,White/Caucasian,Man
+437,139,2021/10/10 10:02:43 PM EST,CMP 128 Computer Science I,EDAM Sharetime Program,,,,,,,,,4.0,White/Caucasian,Man
+438,140,2021/10/10 10:03:30 PM EST,CMP 128 Computer Science I,EDam Share time,,,,,,,,,3.0,White/Caucasian,Man
+439,141,2021/10/10 10:04:36 PM EST,CMP 128 Computer Science I,EDAM student,,,,,,,,,3.0,Multi-racial,Man
+440,142,2021/10/11 1:35:11 AM EST,CMP 128 Computer Science I,Business Management,,,,,,,,,2.0,White/Caucasian,Man
+441,143,2021/10/11 4:31:03 AM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,Yes,Yes,Yes,First Choice,,Asian,Woman
+442,144,2021/10/11 9:27:03 AM EST,CMP 128 Computer Science I,Non Degree seeking,,,,,,,,,5.0,Asian,Woman
+443,145,2021/10/11 12:46:50 PM EST,CMP 128 Computer Science I,ShareTime EDAM,,,,,,,,,5.0,White/Caucasian,Man
+444,146,2021/10/11 1:20:36 PM EST,CMP 128 Computer Science I,Non Degree seeking,,,,,,,,,3.0,Asian,Woman
+445,147,2021/10/11 1:34:55 PM EST,CMP 128 Computer Science I,Challenger Program,No,No,Yes,No,No,No,No,First Choice,,Hispanic or Latino,Woman
+446,148,2021/10/11 5:54:35 PM EST,CMP 131 Fundamentals of Programming (Python),Information Technology,No,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+447,149,2021/10/11 5:58:29 PM EST,CMP 239 Internet & Web Page Design,Information Technology,Yes,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+448,150,2021/10/11 7:28:50 PM EST,CMP 128 Computer Science I,Engineering Design and Advanced Manufacturing. ,,,,,,,,,1.0,White/Caucasian,Man
+449,151,2021/10/11 9:26:00 PM EST,CMP 130 Intro to IT,Information Technology,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,First Choice,,White/Caucasian,Man
+450,152,2021/10/12 8:28:54 AM EST,CMP 130 Intro to IT,Information Technology,Yes,Yes,No,No,No,No,No,First Choice,,White/Caucasian,Prefer not to say
+451,153,2021/10/12 10:16:01 AM EST,CMP 120 Foundations of Information Security,Information Technology,No,No,Yes,No,No,No,No,Engineering,,Asian,Man
+452,154,2021/10/12 10:16:48 AM EST,CMP 120 Foundations of Information Security,Information Technology,No,No,Yes,No,No,No,No,Nursing,,Hispanic or Latino,Woman
+453,155,2021/10/12 12:18:30 PM EST,CMP 128 Computer Science I,CIS Game Development Option,Don't recall,Don't recall,Yes,Yes,No,Don't recall,No,First Choice,,White/Caucasian,Man
+454,156,2021/10/12 12:21:18 PM EST,CMP 131 Fundamentals of Programming (Python),Information Technology,Yes,Yes,Yes,Yes,No,Yes,No,First Choice,,Hispanic or Latino,Woman
+455,157,2021/10/12 12:43:51 PM EST,CMP 131 Fundamentals of Programming (Python),Information Technology,Don't recall,Don't recall,Don't recall,Yes,No,No,No,I started out with Computer Science and then switched to IT,,White/Caucasian,Man
+456,158,2021/10/12 1:39:03 PM EST,CMP 128 Computer Science I,Business Administration,,,,,,,,,4.0,White/Caucasian,Man
+457,159,2021/10/12 4:22:05 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+458,160,2021/10/12 10:12:46 PM EST,CMP 239 Internet & Web Page Design,Graphics Design,,,,,,,,,3.0,White/Caucasian,Man
+459,161,2021/10/12 10:16:27 PM EST,CMP 239 Internet & Web Page Design,Graphic Design,,,,,,,,,3.0,White/Caucasian,Man
+460,162,2021/10/13 4:09:18 AM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,Business,,White/Caucasian,Man
+461,163,2021/10/13 11:13:34 AM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+462,164,2021/10/13 1:07:43 PM EST,CMP 128 Computer Science I,Undecided,,,,,,,,,3.0,White/Caucasian,Man
+463,165,2021/10/13 1:08:23 PM EST,CMP 128 Computer Science I,ShareTime CSIP Program,Yes,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,Don't recall,First Choice,,White/Caucasian,Man
+464,166,2021/10/13 1:08:57 PM EST,CMP 128 Computer Science I,Challenger Program,No,No,No,No,No,No,No,Engineering,,Multi-racial,Man
+465,167,2021/10/13 1:10:40 PM EST,CMP 128 Computer Science I,CCM Share time program,,,,,,,,,5.0,Hispanic or Latino,Man
+466,168,2021/10/13 1:22:22 PM EST,CMP 128 Computer Science I,Computer Science,No,No,Yes,Yes,Yes,No,No,First Choice,,White/Caucasian,Man
+467,169,2021/10/13 3:59:44 PM EST,CMP 239 Internet & Web Page Design,Information Technology,No,No,No,Yes,No,No,No,Engineering,,Hispanic or Latino,Man
+468,170,2021/10/13 6:52:48 PM EST,CMP 130 Intro to IT,Information Technology,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+469,171,2021/10/13 7:13:18 PM EST,CMP 239 Internet & Web Page Design,Information Technology,No,No,Yes,No,No,No,No,Nursing,,Hispanic or Latino,Man
+470,172,2021/10/13 10:25:22 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,Choose not to reply,Man
+471,173,2021/10/13 10:56:35 PM EST,CMP 131 Fundamentals of Programming (Python),Non Degree seeking,,,,,,,,,3.0,White/Caucasian,Man
+472,174,2021/10/14 8:27:37 AM EST,CMP 131 Fundamentals of Programming (Python),Data Analytics Certificate of Achievement,No,No,No,No,No,No,No,First Choice,,Choose not to reply,Man
+473,175,2021/10/14 10:11:20 AM EST,CMP 239 Internet & Web Page Design,Information Technology,Yes,Yes,No,No,No,No,No,Science,,White/Caucasian,Man
+474,176,2021/10/14 10:12:52 AM EST,CMP 239 Internet & Web Page Design,Digital Media Technology,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+475,177,2021/10/14 10:15:50 AM EST,CMP 239 Internet & Web Page Design,Computer Science,No,Yes,Yes,No,No,No,No,First Choice,,Asian,Man
+476,178,2021/10/14 12:59:40 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,Hispanic or Latino,I do not identify
+477,179,2021/10/14 1:00:53 PM EST,CMP 128 Computer Science I,Mechanical Engineering,,,,,,,,,3.0,Choose not to reply,Prefer not to say
+478,180,2021/10/14 1:01:43 PM EST,CMP 128 Computer Science I,Computer Science,Yes,Yes,No,No,No,No,No,First Choice,,White/Caucasian,Woman
+479,181,2021/10/14 1:27:53 PM EST,CMP 128 Computer Science I,Business Administration,,,,,,,,,3.0,Asian,Man
+480,182,2021/10/14 1:44:23 PM EST,CMP 128 Computer Science I,Business Administration,,,,,,,,,4.0,White/Caucasian,Man
+481,183,2021/10/14 1:47:18 PM EST,CMP 128 Computer Science I,Computer Science,No,No,Yes,Don't recall,No,No,No,First Choice,,Hispanic or Latino,Woman
+482,184,2021/10/14 2:01:58 PM EST,CMP 128 Computer Science I,Computer Science,Yes,Yes,Yes,Yes,No,No,No,First Choice,,Multi-racial,Man
+483,185,2021/10/14 2:30:20 PM EST,CMP 128 Computer Science I,mechanical technology major ,,,,,,,,,3.0,Hispanic or Latino,Man
+484,186,2021/10/14 2:40:34 PM EST,CMP 131 Fundamentals of Programming (Python),Information Technology,No,No,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Man
+485,187,2021/10/14 3:35:10 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+486,188,2021/10/14 4:14:10 PM EST,CMP 128 Computer Science I,Mechanical Engineering Technology ,,,,,,,,,4.0,White/Caucasian,Man
+487,189,2021/10/14 6:16:58 PM EST,CMP 128 Computer Science I,Computer Science,Yes,Yes,No,No,No,No,No,LIberal Arts,,Asian,Man
+488,190,2021/10/14 9:28:00 PM EST,CMP 128 Computer Science I,Computer Science,No,No,Yes,No,No,No,Yes,Public health ,,White/Caucasian,Woman
+489,191,2021/10/15 9:28:54 AM EST,CMP 128 Computer Science I,Computer Science,Yes,Yes,No,No,No,No,No,First Choice,,Black/African American,Man
+490,192,2021/10/15 9:30:01 AM EST,CMP 128 Computer Science I,CIS Game Development Option,Yes,Yes,Yes,No,No,No,No,LIberal Arts,,Hispanic or Latino,Man
+491,193,2021/10/15 10:00:19 AM EST,CMP 128 Computer Science I,Mechanical engineering technology ,,,,,,,,,3.0,White/Caucasian,Man
+492,194,2021/10/15 10:27:33 AM EST,CMP 128 Computer Science I,Mechanical Engineering,,,,,,,,,3.0,White/Caucasian,Man
+493,195,2021/10/15 12:05:25 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,Multi-Racial,Man
+494,196,2021/10/15 2:04:36 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,Yes,No,No,No,First Choice,,White/Caucasian,Woman
+495,197,2021/10/15 6:06:14 PM EST,CMP 239 Internet & Web Page Design,Information Technology,No,No,No,No,No,No,No,LIberal Arts,,Black/African American,Man
+496,198,2021/10/16 10:42:14 AM EST,CMP 128 Computer Science I,Mech Tech,,,,,,,,,2.0,Multi-racial,Man
+497,199,2021/10/17 4:55:06 PM EST,CMP 128 Computer Science I,Undecided,,,,,,,,,2.0,White/Caucasian,Man
+498,200,2021/10/17 9:51:05 PM EST,CMP 128 Computer Science I,Information Technology,No,No,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+499,201,2021/10/18 1:10:47 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,First Choice,,Choose not to reply,Man
+500,202,2021/10/18 1:12:05 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,physical therapy,,Black/African American,Man
+501,203,2021/10/18 2:21:19 PM EST,CMP 120 Foundations of Information Security,Information Technology,No,No,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+502,204,2021/10/18 4:45:49 PM EST,CMP 130 Intro to IT,not enrolled in a degree program (votech infosec),,,,,,,,,4.0,White/Caucasian,Man
+503,205,2021/10/18 4:48:14 PM EST,CMP 130 Intro to IT,votech infosec,,,,,,,,,4.0,White/Caucasian,Man
+504,206,2021/10/18 8:25:20 PM EST,CMP 120 Foundations of Information Security,ShareTime CSIP Program,Yes,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+505,207,2021/10/18 8:36:00 PM EST,CMP 120 Foundations of Information Security,ShareTime CSIP Program,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Woman
+506,208,2021/10/18 8:40:28 PM EST,CMP 120 Foundations of Information Security,ShareTime CSIP Program,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Woman
+507,209,2021/10/18 8:55:46 PM EST,CMP 130 Intro to IT,ShareTime CSIP Program,Yes,Yes,No,No,No,No,No,First Choice,,Asian,Man
+508,210,2021/10/18 9:47:46 PM EST,CMP 120 Foundations of Information Security,Information Technology,Yes,Yes,Yes,Don't recall,No,No,No,First Choice,,White/Caucasian,Woman
+509,211,2021/10/18 10:01:01 PM EST,CMP 120 Foundations of Information Security,Information Technology,Yes,Yes,No,Yes,No,No,No,First Choice,,White/Caucasian,Woman
+510,212,2021/10/18 10:47:33 PM EST,CMP 120 Foundations of Information Security,Information Technology,Yes,Don't recall,Yes,No,No,No,No,First Choice,,Choose not to reply,Man
+511,213,2021/10/18 10:58:38 PM EST,CMP 120 Foundations of Information Security,ShareTime CSIP Program,No,No,No,No,No,No,No,First Choice,,Asian,Man
+512,214,2021/10/19 6:58:17 AM EST,CMP 120 Foundations of Information Security,ShareTime CSIP Program,Yes,No,Don't recall,No,No,No,No,First Choice,,White/Caucasian,Man
+513,215,2021/10/19 7:09:35 AM EST,CMP 120 Foundations of Information Security,ShareTime CSIP Program,Yes,Yes,Yes,No,No,Yes,No,First Choice,,White/Caucasian,Man
+514,216,2021/10/19 7:09:48 AM EST,CMP 120 Foundations of Information Security,ShareTime CSIP Program,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Woman
+515,217,2021/10/19 7:10:10 AM EST,CMP 120 Foundations of Information Security,ShareTime CSIP Program,Yes,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+516,218,2021/10/19 7:12:18 AM EST,CMP 120 Foundations of Information Security,ShareTime CSIP Program,Yes,No,No,No,No,No,No,First Choice,,Multi-racial,Woman
+517,219,2021/10/19 7:14:27 AM EST,CMP 130 Intro to IT,ShareTime CSIP Program,Yes,Yes,No,No,No,No,No,First Choice,,White/Caucasian,Man
+518,220,2021/10/19 7:14:31 AM EST,CMP 120 Foundations of Information Security,Computer Science,No,No,No,No,No,No,No,Engineering,,Multi-racial,Man
+519,221,2021/10/19 7:14:53 AM EST,CMP 120 Foundations of Information Security,Information Technology,Yes,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+520,222,2021/10/19 7:15:07 AM EST,CMP 120 Foundations of Information Security,ShareTime CSIP Program,Yes,No,Don't recall,No,No,No,No,Engineering,,Asian,Man
+521,223,2021/10/19 7:17:04 AM EST,CMP 120 Foundations of Information Security,Undecided,,,,,,,,,3.0,White/Caucasian,Man
+522,224,2021/10/19 7:19:28 AM EST,CMP 120 Foundations of Information Security,Information Technology,Yes,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+523,225,2021/10/19 7:23:06 AM EST,CMP 130 Intro to IT,ShareTime CSIP Program,Yes,No,No,No,No,No,No,First Choice,,Multi-racial,Man
+524,226,2021/10/19 12:05:44 PM EST,CMP 128 Computer Science I,Business Administration,,,,,,,,,4.0,White/Caucasian,Man
+525,227,2021/10/20 10:17:31 AM EST,CMP 130 Intro to IT,Information Technology,No,No,Yes,Yes,No,No,No,Engineering,,Choose not to reply,Man
+526,228,2021/10/20 10:21:23 AM EST,CMP 130 Intro to IT,Information Technology,No,No,Yes,No,No,No,No,Graphic Design,,Hispanic or Latino,Man
+527,229,2021/10/20 10:27:46 AM EST,CMP 130 Intro to IT,Information Technology,No,Yes,Yes,Yes,No,Don't recall,Don't recall,Engineering,,White/Caucasian,Man
+528,230,2021/10/20 10:53:56 AM EST,CMP 130 Intro to IT,Information Technology,No,Yes,No,No,No,No,No,First Choice,,White/Caucasian,Man
+529,231,2021/10/20 11:40:21 AM EST,CMP 130 Intro to IT,Information Technology,No,No,Yes,No,No,No,No,Science,,Choose not to reply,Prefer not to say
+530,232,2021/10/20 12:13:05 PM EST,CMP 130 Intro to IT,Computer Science,No,No,Yes,Yes,No,No,No,Engineering,,White/Caucasian,Man
+531,233,2021/10/20 1:16:43 PM EST,CMP 130 Intro to IT,Information Technology,No,No,Yes,No,No,No,No,Graphic Design,,Hispanic or Latino,Man
+532,234,2021/10/20 1:21:19 PM EST,CMP 128 Computer Science I,Mechanical engineering and technology,,,,,,,,,2.0,White/Caucasian,Man
+533,235,2021/10/20 8:18:53 PM EST,CMP 130 Intro to IT,Information Technology,No,No,No,No,No,No,No,First Choice,,Hispanic or Latino,Man
+534,236,2021/10/21 2:12:05 PM EST,CMP 130 Intro to IT,Computer Science,No,No,No,No,No,No,No,LIberal Arts,,Multi-racial,Man
+535,237,2021/10/21 2:22:28 PM EST,CMP 130 Intro to IT,Computer Science,No,No,No,No,No,No,No,Science,,Multi-racial,Man
+536,238,2021/10/21 3:13:46 PM EST,CMP 130 Intro to IT,Computer Science,Yes,Yes,Yes,Yes,No,No,No,First Choice,,White/Caucasian,Man
+537,239,2021/10/22 9:08:19 AM EST,CMP 130 Intro to IT,Information Technology,No,No,Yes,No,No,No,No,First Choice,,White/Caucasian,Man
+538,240,2021/10/22 5:07:51 PM EST,CMP 130 Intro to IT,Information Technology,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+539,241,2021/10/22 7:34:04 PM EST,CMP 131 Fundamentals of Programming (Python),Computer Science,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+540,242,2021/10/22 7:36:54 PM EST,CMP 131 Fundamentals of Programming (Python),Computer Science,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Woman
+541,243,2021/12/17 10:13:34 AM EST,CMP 130 Intro to IT,Information Technology,No,No,No,No,No,No,No,First Choice,,White/Caucasian,Man
+542,244,2021/12/17 1:11:40 PM EST,CMP 128 Computer Science I,Computer Science,No,No,No,No,No,No,No,Business,,White/Caucasian,Man
